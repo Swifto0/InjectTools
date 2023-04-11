@@ -1,3 +1,4 @@
+## read_bin
 read_bin.py can convert .bin file to shellcode array of native C. \
 usage: python3 read_bin.py \
  \
@@ -6,6 +7,7 @@ read_bin.py: 将bin文件转换为C语言的shellcode格式，并添加自动换
 \
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/2563483/1681210700853-d0800aed-c17e-466f-8a32-9bd56cdd4b4e.png#averageHue=%233e4650&clientId=uff4f439a-5567-4&from=paste&height=1211&id=u25057398&name=image.png&originHeight=1816&originWidth=2297&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=620600&status=done&style=none&taskId=uf04a101a-b684-46a8-8422-29ec0eef4f5&title=&width=1531.3333333333333)
 
+## read_payload
 read_payload.py convert single line shellcode to multi lines shellcode. \
 usage: python3 read_payload.py \
  \
